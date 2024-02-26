@@ -1,5 +1,5 @@
 
-- 👀 It's me, Khánh, you can call me Eugene btw
+# 👀 It's me, Khánh, you can call me Eugene btw
 
 
 # Python
