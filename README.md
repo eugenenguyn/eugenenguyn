@@ -24,5 +24,5 @@
 # SQL
 <a href="https://github.com/eugenenguyn/SQL-DannysDiner">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=SQL-DannysDiner&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=SQL-DannysDiner&theme=gruvbox"/>
 </a>  
