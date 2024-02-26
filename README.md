@@ -9,20 +9,20 @@
 # Python
 <a href="https://github.com/eugenenguyn/Food_Delivery_Time_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Food_Delivery_Time_Prediction&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Food_Delivery_Time_Prediction&theme=synthwave"/>
 </a>    
 <a href="https://github.com/eugenenguyn/project-RFM">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Project_RFM&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Project_RFM&theme=synthwave"/>
 </a>
 
 <a href="https://github.com/eugenenguyn/Corhort_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Corhort_Analysis&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Corhort_Analysis&theme=synthwave"/>
 </a>
 
 # SQL
 <a href="https://github.com/eugenenguyn/SQL-DannysDiner">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=SQL-DannysDiner&theme=cobalt"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=SQL-DannysDiner&theme=highcontrast"/>
 </a>  
