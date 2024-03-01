@@ -16,6 +16,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Corhort_Analysis&theme=highcontrast"/>
 </a>
+<a href="https://github.com/eugenenguyn/Movies_Recommendation">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Movies_Recommendation&theme=highcontrast"/>
+</a>
 
 # SQL
 <a href="https://github.com/eugenenguyn/SQL-DannysDiner">
