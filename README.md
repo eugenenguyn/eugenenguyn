@@ -5,11 +5,11 @@
 # Python
 <a href="https://github.com/eugenenguyn/Food_Delivery_Time_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Food_Delivery_Time_Prediction&theme=highcontrast"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Food_Delivery_Time_Prediction&theme=merko"/>
 </a>    
 <a href="https://github.com/eugenenguyn/Project_RFM">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Project_RFM&theme=highcontrast"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Project_RFM&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/eugenenguyn/Corhort_Analysis">
@@ -18,7 +18,7 @@
 </a>
 <a href="https://github.com/eugenenguyn/Movies_Recommendation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Movies_Recommendation&theme=highcontrast"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eugenenguyn&repo=Movies_Recommendation&theme=synthwave"/>
 </a>
 
 # SQL
